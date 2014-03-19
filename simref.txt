@@ -1,0 +1,3 @@
+dsimV2-Mar2012_renamed.fa
+dsimV2_chrom_names.csv
+dsimV2_chrom_seq_lens.csv

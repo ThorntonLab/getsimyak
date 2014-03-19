@@ -1,0 +1,3 @@
+chrom_names.csv
+chrom_seq_lens.csv
+dyak-all-chromosome-r1.3-newnames.fasta
