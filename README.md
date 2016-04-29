@@ -5,7 +5,7 @@ __NOTE__: These scripts are irrelevant now, as we've had issues with serving up 
 You therefore have two choices:
 
 * Download our BAM files from the SRA using the accession numbers in the MBE paper.  If you need the FASTQ files, you can reconstruct them from the BAM files.
-* Download the _D. yakuba_ data from http://devlaeminck.bio.uci.edu/Data/dyak_genomic_reads/ and the _D. simulans_ data from http://devlaeminck.bio.uci.edu/Data/dsim_genomic_reads/
+* Download the data via Google Drive, which will be quite slow: [Link](https://drive.google.com/folderview?id=0Bxy-54SBqeekakFpeFBib3BXcVE&usp=sharing)
 
 The latter option could be quite slow...
 
